@@ -1,0 +1,43 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34607.119
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BlazorTicketV3", "BlazorTicketV3\BlazorTicketV3.csproj", "{62BF3AFA-D2F7-4792-8C2F-9B983507C823}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BlazorTicketV3.logik", "BlazorTicketV3.logik\BlazorTicketV3.logik.csproj", "{98596FC0-C757-4BD4-B366-B84DA6895957}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BlazorTicketV3.API", "BlazorTicketV3.API\BlazorTicketV3.API.csproj", "{6B7D4050-B4B7-413B-A31F-B36533A170B5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BlazorTicketV3.Database", "BlazorTicketV3.Database\BlazorTicketV3.Database.csproj", "{5735D26D-7365-4F99-853E-0C8B148A6870}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{62BF3AFA-D2F7-4792-8C2F-9B983507C823}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{62BF3AFA-D2F7-4792-8C2F-9B983507C823}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{62BF3AFA-D2F7-4792-8C2F-9B983507C823}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{62BF3AFA-D2F7-4792-8C2F-9B983507C823}.Release|Any CPU.Build.0 = Release|Any CPU
+		{98596FC0-C757-4BD4-B366-B84DA6895957}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{98596FC0-C757-4BD4-B366-B84DA6895957}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{98596FC0-C757-4BD4-B366-B84DA6895957}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{98596FC0-C757-4BD4-B366-B84DA6895957}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6B7D4050-B4B7-413B-A31F-B36533A170B5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6B7D4050-B4B7-413B-A31F-B36533A170B5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6B7D4050-B4B7-413B-A31F-B36533A170B5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6B7D4050-B4B7-413B-A31F-B36533A170B5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5735D26D-7365-4F99-853E-0C8B148A6870}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5735D26D-7365-4F99-853E-0C8B148A6870}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5735D26D-7365-4F99-853E-0C8B148A6870}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5735D26D-7365-4F99-853E-0C8B148A6870}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7B7A5658-0CFF-44AC-9C78-90561EA97363}
+	EndGlobalSection
+EndGlobal
